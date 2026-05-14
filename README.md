@@ -8,5 +8,3 @@ I'm currently working as a **Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-moreira-software/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:ericknrmoreira@outlook.com)
-
-based in Brazil 🇧🇷;

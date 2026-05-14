@@ -6,4 +6,3 @@ I'm currently working as a **Software Engineer**
 - 🧠 Passionate about: **Problem solving**, **Distributed Architecture**, **AI**, **Data**
 - 💬 `ping` me about **C# / .NET**, **React**, **Kafka**, **Kubernetes**, **distributed systems**
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:ericknrmoreira@outlook.com)

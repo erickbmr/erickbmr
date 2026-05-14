@@ -41,7 +41,6 @@ I'm currently working as a **Software Engineer**
   <img src="https://img.shields.io/badge/AI_Orchestration-00BFFF?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Pipelines-FF6F00?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem_Solving-2ECC71?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Science-2ECC71?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white" />
